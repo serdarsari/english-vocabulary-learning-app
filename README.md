@@ -12,8 +12,7 @@ Proje gelişime açıktır. Kısa sürede az bilgiyle çıkarmaya çalışmışt
 ## Uygulama içi görseller:
 
 ![alt text](https://raw.githubusercontent.com/serdarsari/english-vocabulary-learning-app/master/images/1.jpg)
-Uygulama Giriş Sayfası
-</hr>
+<p align="center">Uygulama Giriş Sayfası</p>
 
 ![alt text](https://raw.githubusercontent.com/serdarsari/english-vocabulary-learning-app/master/images/2.jpg)
 
