@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="kelimearkaplandegrade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimearkaplandegrade.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anamenuppp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\anamenuppp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sesayariarkaplanaciklamali2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sesayariarkaplanaciklamali2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sesayariarkaplanaciklamali" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sesayariarkaplanaciklamali.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kelimearkaplany2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimearkaplany2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nasiloynanir4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nasiloynanir.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sesayariarkaplan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sesayariarkaplan.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplanlastnumber" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplanlastnumber.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplanlastsyf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplanlastsyf.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="giris2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\giris.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kelimearkaplandegrade22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimearkaplandegrade22.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exit1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exit1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="giris1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\giris1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nasiloynanirv2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nasiloynanirv2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="acbutonu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\acbutonu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kapali" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kapali.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kapatbutonu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kapatbutonu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="giris" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\giris.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplan1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplan1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kelimearkaplandegrade2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimearkaplandegrade2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitkoyu2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitkoyu2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitkoyu2form2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitkoyu2form2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="power" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\power.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisayoltuslari" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisayoltuslari.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="favorialtyazi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\favorialtyazi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hazirsanbasliyoruz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hazirsanbasliyoruz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mevcutkelimeuyarisi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mevcutkelimeuyarisi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hakkinda3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hakkinda3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisayolicon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisayolicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DD" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DD.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hakkinda" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hakkinda.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cevabigor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cevabigor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silmeonay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silmeonay.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anamenu2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\anamenu2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="devametbuton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\devametbuton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anamenu1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\anamenu.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minimize" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minimize.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitkoyu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitkoyu.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dogru" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dogru.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anamenuw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\anamenuw.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitkoyu2forsm2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitkoyu2forsm2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tamam" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tamam.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="favoributon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\favoributon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silmeonay2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silmeonay2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisayoltuslari40x40" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisayoltuslari40x40.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dogrusayisi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dogrusayisi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitmenukarartilmis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitmenukarartilmis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="acik" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\acik.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kelimeyokuyari" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimeyokuyari.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitmenupng" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitmenupng.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anamenu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\anamenu.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitkoyu2form2x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitkoyu2form2x.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kelimesiniri" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimesiniri.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kelimearkaplansonson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimearkaplansonson.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yanlis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yanlis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nasiloynanir3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nasiloynanir3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="powerkoyu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\powerkoyu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silmeonaypng" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silmeonaypng.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="akademik" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\akademik.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kelimeyokuyari2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimeyokuyari2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kelimearkaplan2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimearkaplan2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gundelik" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gundelik.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hayvanlar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hayvanlar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silmeonay4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silmeonay4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplanlastser2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplanlastser2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minimize2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minimize2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplanlast2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplanlast2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yiyecekicecek" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yiyecekicecek.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hakkinda31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hakkinda3.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exit2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exit2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ses" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ses.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitkoyu2form222" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitkoyu2form222.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anamenuortada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\anamenuortada.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitmenu1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitmenu.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitkoyu2kategoritamalama" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitkoyu2kategoritamalama.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bitis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bitis.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitmenu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitmenu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kategoribitirme2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kategoribitirme2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kelimearkaplan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimearkaplan.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hazirsan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hazirsan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplan3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplan3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anamenuuu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\anamenuuu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisayoltuslari2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisayoltuslari2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitkoyu2form22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitkoyu2form22.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplan.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisayolmenusu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisayolmenusu.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplanlastser" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplanlastser.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kelimearkaplanson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimearkaplanson.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1q" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1q.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="favoributon2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\favoributon2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kelimearkaplan3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimearkaplan3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sesseviyesideneme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sesseviyesideneme.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kelimearkaplanSONs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimearkaplanSONs.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sesayariarkaplanaciklamalison" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sesayariarkaplanaciklamalison.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplanlast1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplanlast.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ulkeler" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ulkeler.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kategoribitirme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kategoribitirme.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yanlisarkaplan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yanlisarkaplan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hakkimizda" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hakkimizda.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anamenu3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\anamenu.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplan2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplan2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sesayariarkaplan2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sesayariarkaplan2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sonraki" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sonraki.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dogruu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dogruu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="powerr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\powerr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplanlast4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplanlast4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ses1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ses1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplanlastser3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplanlastser3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sessiz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sessiz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ses2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ses.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="basliyoruz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\basliyoruz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitkoyu2form1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitkoyu2form1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silmeonay3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silmeonay3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yanliss" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yanliss.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kelimearkaplandegrade21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimearkaplandegrade2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="basliyoruz1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\basliyoruz1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplanlastnum2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplanlastnum2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="basliyoruzz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\basliyoruzz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplanlast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplanlast.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silmeonay1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silmeonay1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kelimearkaplanyeni1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kelimearkaplanyeni1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hakkinda2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hakkinda2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nasiloynanir1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nasiloynanir.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="birseyyazmadiniz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\birseyyazmadiniz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nasiloynanir2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nasiloynanir2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplanlast3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplanlast3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="esyalar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\esyalar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nasiloynanir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nasiloynanir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sozlukarkaplanlastrevize" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sozlukarkaplanlastrevize.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FF890335-72BF-473D-97CB-BD6D00E9A424}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EnglishVocabularLearningApp</RootNamespace>
+    <AssemblyName>EnglishVocabularLearningApp</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>iconn_Pfw_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="exitmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exitmenu.Designer.cs">
+      <DependentUpon>exitmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exitmenu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exitmenu2.Designer.cs">
+      <DependentUpon>exitmenu2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kategorifinish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kategorifinish.Designer.cs">
+      <DependentUpon>kategorifinish.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kaydedilmiskelimeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kaydedilmiskelimeler.Designer.cs">
+      <DependentUpon>kaydedilmiskelimeler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kisayoltuslari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kisayoltuslari.Designer.cs">
+      <DependentUpon>kisayoltuslari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sesayari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sesayari.Designer.cs">
+      <DependentUpon>sesayari.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="exitmenu.resx">
+      <DependentUpon>exitmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exitmenu2.resx">
+      <DependentUpon>exitmenu2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kategorifinish.resx">
+      <DependentUpon>kategorifinish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kaydedilmiskelimeler.resx">
+      <DependentUpon>kaydedilmiskelimeler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kisayoltuslari.resx">
+      <DependentUpon>kisayoltuslari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="sesayari.resx">
+      <DependentUpon>sesayari.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1q.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anamenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giris.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\devametbuton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anamenu2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giris1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hakkimizda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\powerr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nasiloynanir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gundelik.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\akademik.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\esyalar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hayvanlar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ulkeler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yiyecekicecek.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitmenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitmenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dogru.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yanlis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kelimearkaplan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cevabigor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tamam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sonraki.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kelimearkaplan2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kelimearkaplan3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dogrusayisi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nasiloynanir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nasiloynanir2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nasiloynanir3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hakkinda.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kelimearkaplanson.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kelimearkaplanSONs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ses.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ses1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sessiz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\powerkoyu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anamenuppp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kelimearkaplansonson.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yanlisarkaplan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yanliss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dogruu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitmenupng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisayolicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisayoltuslari40x40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisayolmenusu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitmenukarartilmis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sesseviyesideneme.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kapatbutonu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acbutonu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kapali.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acik.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sesayariarkaplan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Cursor2.cur" />
+    <Content Include="bin\Debug\Cursor4.cur" />
+    <Content Include="bin\Debug\Cursor6.cur" />
+    <Content Include="iconn_Pfw_icon.ico" />
+    <None Include="Resources\sozlukarkaplanlastrevize.gif" />
+    <None Include="Resources\exit1.gif" />
+    <None Include="Resources\exit2.gif" />
+    <None Include="Resources\anamenuortada.gif" />
+    <None Include="Resources\bitis.gif" />
+    <None Include="Resources\giris.gif" />
+    <None Include="Resources\nasiloynanir.gif" />
+    <None Include="Resources\ses.gif" />
+    <None Include="Resources\hakkinda3.gif" />
+    <None Include="Resources\sozlukarkaplanlast.gif" />
+    <None Include="Resources\kelimearkaplandegrade2.gif" />
+    <None Include="Resources\exitkoyu2form2x.gif" />
+    <None Include="Resources\anamenu.gif" />
+    <None Include="Resources\exitkoyu2forsm2.gif" />
+    <None Include="Resources\anamenuw.gif" />
+    <None Include="Resources\anamenu.bmp" />
+    <None Include="Resources\anamenuuu.png" />
+    <None Include="Resources\basliyoruz1.png" />
+    <None Include="Resources\basliyoruzz.png" />
+    <None Include="Resources\hazirsan.png" />
+    <None Include="Resources\basliyoruz.png" />
+    <None Include="Resources\hazirsanbasliyoruz.png" />
+    <None Include="Resources\DD.png" />
+    <None Include="Resources\birseyyazmadiniz.png" />
+    <None Include="Resources\sozlukarkaplanlastser3.jpg" />
+    <None Include="Resources\sozlukarkaplanlastser2.jpg" />
+    <None Include="Resources\sozlukarkaplanlastser.jpg" />
+    <None Include="Resources\minimize.png" />
+    <None Include="Resources\minimize2.png" />
+    <None Include="Resources\silmeonay4.png" />
+    <None Include="Resources\silmeonay3.png" />
+    <None Include="Resources\sozlukarkaplanlastnum2.jpg" />
+    <None Include="Resources\sozlukarkaplanlastnumber.jpg" />
+    <None Include="Resources\silmeonay2.png" />
+    <None Include="Resources\sozlukarkaplanlast4.jpg" />
+    <None Include="Resources\sozlukarkaplanlast3.jpg" />
+    <None Include="Resources\kelimesiniri.png" />
+    <None Include="Resources\sozlukarkaplanlastsyf.jpg" />
+    <None Include="Resources\exitkoyu2form222.jpg" />
+    <None Include="Resources\exitkoyu2form1.jpg" />
+    <None Include="Resources\exitkoyu2form22.jpg" />
+    <None Include="Resources\exitkoyu2kategoritamalama.jpg" />
+    <None Include="Resources\exitkoyu2form2.jpg" />
+    <None Include="Resources\exitkoyu2.jpg" />
+    <None Include="Resources\exitkoyu.jpg" />
+    <None Include="Resources\sozlukarkaplanlast2.jpg" />
+    <None Include="Resources\hakkinda3.jpg" />
+    <None Include="Resources\hakkinda2.jpg" />
+    <None Include="Resources\sozlukarkaplanlast.jpg" />
+    <None Include="Resources\kategoribitirme2.jpg" />
+    <None Include="Resources\kategoribitirme.jpg" />
+    <None Include="Resources\sesayariarkaplanaciklamali2.jpg" />
+    <None Include="Resources\mevcutkelimeuyarisi.png" />
+    <None Include="Resources\favorialtyazi.png" />
+    <None Include="Resources\kelimearkaplandegrade22.jpg" />
+    <None Include="Resources\kelimearkaplandegrade2.jpg" />
+    <None Include="Resources\kelimearkaplandegrade.jpg" />
+    <None Include="Resources\nasiloynanirv2.jpg" />
+    <None Include="Resources\kisayoltuslari2.jpg" />
+    <None Include="Resources\kisayoltuslari.jpg" />
+    <None Include="Resources\sozlukarkaplan3.jpg" />
+    <None Include="Resources\sozlukarkaplan2.jpg" />
+    <None Include="Resources\favoributon2.png" />
+    <None Include="Resources\favoributon.png" />
+    <None Include="Resources\kelimearkaplany2.jpg" />
+    <None Include="Resources\kelimearkaplanyeni1.jpg" />
+    <None Include="Resources\sozlukarkaplan1.jpg" />
+    <None Include="Resources\sesayariarkaplanaciklamalison.jpg" />
+    <None Include="Resources\sesayariarkaplanaciklamali.jpg" />
+    <None Include="Resources\sesayariarkaplan2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

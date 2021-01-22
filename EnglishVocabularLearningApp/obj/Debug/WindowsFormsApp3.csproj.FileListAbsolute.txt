@@ -1,0 +1,158 @@
+C:\Users\Serdar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Serdar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Serdar\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Serdar\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Serdar\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Serdar\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Serdar\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Serdar\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Serdar\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Serdar\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Serdar\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Serdar\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Serdar\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exitmenu.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kisayoltuslari.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.sesayari.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kaydedilmiskelimeler.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kategorifinish.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exitmenu2.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exitmenu.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exitmenu2.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kategorifinish.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kaydedilmiskelimeler.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kisayoltuslari.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.sesayari.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\Desktop\Main Folder\Project\yedekler\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exitmenu.resources
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exitmenu2.resources
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kategorifinish.resources
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kaydedilmiskelimeler.resources
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kisayoltuslari.resources
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.sesayari.resources
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\Desktop\19 Nisan Aksam\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exitmenu.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exitmenu2.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kategorifinish.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kaydedilmiskelimeler.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kisayoltuslari.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.sesayari.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exitmenu.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exitmenu2.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kategorifinish.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kaydedilmiskelimeler.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kisayoltuslari.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.sesayari.resources
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\Desktop\Main Folder\Project\Win Form Oyun Sonu\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exitmenu.resources
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exitmenu2.resources
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kategorifinish.resources
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kaydedilmiskelimeler.resources
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kisayoltuslari.resources
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.sesayari.resources
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Serdar\Desktop\Proje\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
