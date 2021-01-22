@@ -55,10 +55,10 @@ Proje gelişime açıktır. Kısa sürede az bilgiyle çıkarmaya çalışmışt
 ![alt text](https://raw.githubusercontent.com/serdarsari/english-vocabulary-learning-app/master/images/15.jpg)
 
 
-![alt text](https://raw.githubusercontent.com/serdarsari/english-vocabulary-learning-app/master/images/16.jpg)
-
-
 ![alt text](https://raw.githubusercontent.com/serdarsari/english-vocabulary-learning-app/master/images/17.jpg)
 
 
 ![alt text](https://raw.githubusercontent.com/serdarsari/english-vocabulary-learning-app/master/images/18.jpg)
+
+
+![alt text](https://raw.githubusercontent.com/serdarsari/english-vocabulary-learning-app/master/images/16.jpg)
