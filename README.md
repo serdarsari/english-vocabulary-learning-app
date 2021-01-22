@@ -4,7 +4,7 @@
 * *Kullanılan Programlar : **Adobe Photoshop, Visual Studio 2017***
 * *Tarih : **Mayıs 2019***
 
-Merhaba, 2.sınıf okuyorken, C# ile Görsel Programlama dersi için yapmış olduğum bir projedir.
+Merhaba, 2.sınıf öğrencisiyken, C# ile Görsel Programlama dersi için yapmış olduğum bir projedir.
 Herhangi bir veritabanı vs. kullanılmamıştır.
 Kelimeler dizilerde tutulmuştur.
 Proje gelişime açıktır. Kısa sürede az bilgiyle çıkarmaya çalışmıştım o zamanlar.
