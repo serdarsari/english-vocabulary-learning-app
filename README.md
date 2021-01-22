@@ -1,6 +1,7 @@
 # English Vocabulary Learning Application (İngilizce Kelime Öğrenme Uygulaması)
 
 * *Programlama Dili : **C# (Win Form)***
+* *Kullanılan Programlar : **Adobe Photoshop, Visual Studio 2017***
 * *Tarih : **Mayıs 2019***
 
 Merhaba, 2.sınıf okuyorken, C# ile Görsel Programlama dersi için yapmış olduğum bir projedir.
