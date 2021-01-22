@@ -9,6 +9,9 @@ Herhangi bir veritabanı vs. kullanılmamıştır.
 Kelimeler dizilerde tutulmuştur.
 Proje gelişime açıktır. Kısa sürede az bilgiyle çıkarmaya çalışmıştım o zamanlar.
 
+## Not:
+Uygulamayı çalıştırmak için bilgisayarınızda en az **.NET Framework 4.6.1** kurulu olması gerekiyor. Daha sonra ek bir ayar yapmadan, direkt olarak uygulamayı çalıştırabilirsiniz.
+
 ## Uygulama içi görseller:
 
 ![alt text](https://raw.githubusercontent.com/serdarsari/english-vocabulary-learning-app/master/images/1.jpg)
